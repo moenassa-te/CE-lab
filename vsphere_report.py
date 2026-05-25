@@ -18,8 +18,8 @@ import os
 
 # ─── Configuration ───────────────────────────────────────────────────────────
 VCENTER = "vcenter.ce.te-labs.1keyes.net"
-USERNAME = "moenassa"
-PASSWORD = "C!$c0_123456"
+USERNAME = "CIC user"
+PASSWORD = "CIC password"
 PORT = 443
 # ─────────────────────────────────────────────────────────────────────────────
 
